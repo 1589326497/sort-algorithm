@@ -4,6 +4,5 @@
 
 **排序在练习c++实现 2023年4月9日练习**
 
-![排序.pdf](https://github.com/1589326497/sort-algorithm/files/13777292/default.pdf)
-
+[笔记链接](https://blog.csdn.net/m0_60134435/article/details/130310850)
 
